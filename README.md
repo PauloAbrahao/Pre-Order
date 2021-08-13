@@ -4,6 +4,4 @@
 
 <img src="assets/scshot.png" alt="some text">
 
-            <a href="style/">
-                
-            </a>
+<a href="style/">Pasta</a>
